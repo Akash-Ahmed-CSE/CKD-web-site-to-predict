@@ -9,4 +9,12 @@ I made a web interface using one of the best performed algorithm named Logistic 
 Here the accuraccy was 84.84%.
 
 
+Pease find th evisual site of the web interface.
 
+### Input site
+![](images/img1.jpg)
+
+
+### Output result
+![](images/img2.jpg)
+![](images/img3.jpg)
